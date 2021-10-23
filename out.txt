@@ -1,0 +1,132 @@
+
+----------------------------------------
+
+DATE TRANSFUZIE
+
+--------------------
+
+Date Donator:
+Donator Privat
+Grupa Sanguina:  B
+Varsta: 20
+--------------------
+
+--------------------
+
+Date Pacient
+Pacient Privat
+Grupa Sanguina:  AB
+Varsta: 20
+--------------------
+
+----------------------------------------
+
+----------------------------------------
+
+DATE TRANSFUZIE
+
+--------------------
+
+Date Donator:
+Donator Privat
+Grupa Sanguina:  A
+Varsta: 20
+--------------------
+
+--------------------
+
+Date Pacient
+Pacient Privat
+Grupa Sanguina:  B
+Varsta: 20
+--------------------
+
+----------------------------------------
+
+----------------------------------------
+
+DATE TRANSFUZIE
+
+--------------------
+
+Date Donator:
+Donator Privat
+Grupa Sanguina:  B
+Varsta: 20
+--------------------
+
+--------------------
+
+Date Pacient
+Pacient Privat
+Grupa Sanguina:  AB
+Varsta: 20
+--------------------
+
+----------------------------------------
+
+----------------------------------------
+
+DATE TRANSFUZIE
+
+--------------------
+
+Date Donator:
+Donator Privat
+Grupa Sanguina:  B
+Varsta: 20
+--------------------
+
+--------------------
+
+Date Pacient
+Pacient Privat
+Grupa Sanguina:  B
+Varsta: 20
+--------------------
+
+----------------------------------------
+
+----------------------------------------
+
+DATE TRANSFUZIE
+
+--------------------
+
+Date Donator:
+Donator Privat
+Grupa Sanguina:  AB
+Varsta: 20
+--------------------
+
+--------------------
+
+Date Pacient
+Pacient Privat
+Grupa Sanguina:  AB
+Varsta: 20
+--------------------
+
+----------------------------------------
+
+----------------------------------------
+
+DATE TRANSFUZIE
+
+--------------------
+
+Date Donator:
+Donator Privat
+Grupa Sanguina:  B
+Varsta: 20
+--------------------
+
+--------------------
+
+Date Pacient
+Pacient Privat
+Grupa Sanguina:  B
+Varsta: 20
+--------------------
+
+----------------------------------------
