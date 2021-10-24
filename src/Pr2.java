@@ -1,4 +1,5 @@
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
@@ -261,5 +262,9 @@ public class Pr2 {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.pack();
         frame.setVisible(true);
+        //Afisare fereastra in mijlcul ecranului.
+        Dimension screen = Toolkit.getDefaultToolkit().getScreenSize();
+        frame.setSize(screen.width/2, screen.height/2);
+        frame.setLocationRelativeTo(null);
     }
 }

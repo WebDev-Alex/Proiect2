@@ -108,3 +108,47 @@ Varsta: 20
 --------------------
 
 ----------------------------------------
+
+----------------------------------------
+
+DATE TRANSFUZIE
+
+--------------------
+
+Date Donator:
+Popescu Claudiu
+Grupa Sanguina:  B
+Varsta: 19
+--------------------
+
+--------------------
+
+Date Pacient
+Rusu Elena
+Grupa Sanguina:  B
+Varsta: 20
+--------------------
+
+----------------------------------------
+
+----------------------------------------
+
+DATE TRANSFUZIE
+
+--------------------
+
+Date Donator:
+Constantin Andrei
+Grupa Sanguina:  A
+Varsta: 32
+--------------------
+
+--------------------
+
+Date Pacient
+Popescu Elena
+Grupa Sanguina:  A
+Varsta: 20
+--------------------
+
+----------------------------------------
