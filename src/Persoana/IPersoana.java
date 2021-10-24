@@ -23,7 +23,12 @@ public interface IPersoana {
             "Paul",
             "Constantin",
             "Daniel",
-            "Dan"
+            "Dan",
+            "Mihaela",
+            "Pavel",
+            "Raul",
+            "Codruta",
+            "Cosmin"
     };
     public static final String[] nume_default = {
             "Popa",
@@ -40,7 +45,9 @@ public interface IPersoana {
             "Matei",
             "Constantin",
             "Serban",
-            "Urs"
+            "Urs",
+            "Hulpe",
+            "Rus"
     };
     public static final Random R = new Random();
     public static final String[] grupe_sanguine = {"A", "B", "AB", "0"};

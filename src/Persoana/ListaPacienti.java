@@ -25,6 +25,11 @@ public class ListaPacienti {
         this.getListaPacienti().add(new Pacient(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]));
         this.getListaPacienti().add(new Pacient(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]));
         this.getListaPacienti().add(new Pacient(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]));
+        this.getListaPacienti().add(new Pacient(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]));
+        this.getListaPacienti().add(new Pacient(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]));
+        this.getListaPacienti().add(new Pacient(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]));
+        this.getListaPacienti().add(new Pacient(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]));
+        this.getListaPacienti().add(new Pacient(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]));
         this.afiseazaPacientii(j);
     }
 

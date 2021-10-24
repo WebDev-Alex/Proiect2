@@ -6,15 +6,15 @@ DATE TRANSFUZIE
 --------------------
 
 Date Donator:
-Rusu Gabriela
-Grupa Sanguina:  AB
-Varsta: 20
+Matei Iulia
+Grupa Sanguina:  B
+Varsta: 32
 --------------------
 
 --------------------
 
 Date Pacient
-Matei Gabriel
+Gheorghe Ioana
 Grupa Sanguina:  AB
 Varsta: 20
 --------------------
@@ -28,15 +28,37 @@ DATE TRANSFUZIE
 --------------------
 
 Date Donator:
-Munteanu Ionut
-Grupa Sanguina:  AB
-Varsta: 20
+Radu Alexandra
+Grupa Sanguina:  B
+Varsta: 29
 --------------------
 
 --------------------
 
 Date Pacient
-Stoica Elena
+Munteanu Alexandru
+Grupa Sanguina:  B
+Varsta: 20
+--------------------
+
+----------------------------------------
+
+----------------------------------------
+
+DATE TRANSFUZIE
+
+--------------------
+
+Date Donator:
+Popescu Stefan
+Grupa Sanguina:  B
+Varsta: 19
+--------------------
+
+--------------------
+
+Date Pacient
+Stan Stefan
 Grupa Sanguina:  AB
 Varsta: 20
 --------------------
@@ -50,19 +72,19 @@ DATE TRANSFUZIE
 --------------------
 
 Date Donator:
-Constantin Alexandra
+Rusu Paul
+Grupa Sanguina:  0
+Varsta: 29
+--------------------
+
+--------------------
+
+Date Pacient
+Pop Daniel
 Grupa Sanguina:  0
 Varsta: 20
 --------------------
 
---------------------
-
-Date Pacient
-Popescu Ana-Maria
-Grupa Sanguina:  AB
-Varsta: 20
---------------------
-
 ----------------------------------------
 
 ----------------------------------------
@@ -72,37 +94,15 @@ DATE TRANSFUZIE
 --------------------
 
 Date Donator:
-Pop Iulia
-Grupa Sanguina:  B
-Varsta: 20
+Constantin Marian
+Grupa Sanguina:  0
+Varsta: 15
 --------------------
 
 --------------------
 
 Date Pacient
-Gheorghe Alexandru
-Grupa Sanguina:  B
-Varsta: 20
---------------------
-
-----------------------------------------
-
-----------------------------------------
-
-DATE TRANSFUZIE
-
---------------------
-
-Date Donator:
-Radu Gabriel
-Grupa Sanguina:  A
-Varsta: 20
---------------------
-
---------------------
-
-Date Pacient
-Constantin Gabriel
+Radu Mihaela
 Grupa Sanguina:  A
 Varsta: 20
 --------------------

@@ -25,6 +25,11 @@ public class ListaDonatori {
         this.getListaDonatori().add(new Donator(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]));
         this.getListaDonatori().add(new Donator(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]));
         this.getListaDonatori().add(new Donator(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]));
+        this.getListaDonatori().add(new Donator(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]));
+        this.getListaDonatori().add(new Donator(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]));
+        this.getListaDonatori().add(new Donator(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]));
+        this.getListaDonatori().add(new Donator(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]));
+        this.getListaDonatori().add(new Donator(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]));
         this.afiseazaDonatorii(j);
     }
 

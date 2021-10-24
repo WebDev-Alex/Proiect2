@@ -10,7 +10,7 @@ public class Donator implements IPersoana{
     public Donator(){
         nume = IPersoana.nume_default[IPersoana.R.nextInt(IPersoana.nume_default.length - 1)];
         prenume = IPersoana.prenume_default[IPersoana.R.nextInt(IPersoana.prenume_default.length - 1)];
-        varsta = 20;
+        varsta = IPersoana.R.nextInt(20) + 14;
         grupa_sanguina = "A";
     }
 
@@ -18,7 +18,7 @@ public class Donator implements IPersoana{
     public Donator(String grupa_sanguinaD){
         nume = IPersoana.nume_default[IPersoana.R.nextInt(IPersoana.nume_default.length - 1)];
         prenume = IPersoana.prenume_default[IPersoana.R.nextInt(IPersoana.prenume_default.length - 1)];
-        varsta = 20;
+        varsta = IPersoana.R.nextInt(20) + 14;
         grupa_sanguina = grupa_sanguinaD;
     }
     //Constructor Adauga Nume, Prenume si gr. Sanguina
@@ -49,8 +49,10 @@ public class Donator implements IPersoana{
         str.append(this.getNume());
         str.append(" ");
         str.append(this.getPrenume());
-        str.append("\nGrupa Sanguina:  " + this.getGrupaSanguina());
-        str.append("\nVarsta: " + this.varsta);
+        str.append("\nGrupa Sanguina:  ");
+        str.append(this.getGrupaSanguina());
+        str.append("\nVarsta: ");
+        str.append(this.varsta);
         str.append("\n--------------------\n");
 
         return str.toString();
