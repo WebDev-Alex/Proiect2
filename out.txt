@@ -6,39 +6,17 @@ DATE TRANSFUZIE
 --------------------
 
 Date Donator:
-Matei Iulia
-Grupa Sanguina:  B
-Varsta: 32
---------------------
-
---------------------
-
-Date Pacient
-Gheorghe Ioana
+Munteanu Paul
 Grupa Sanguina:  AB
-Varsta: 20
---------------------
-
-----------------------------------------
-
-----------------------------------------
-
-DATE TRANSFUZIE
-
---------------------
-
-Date Donator:
-Radu Alexandra
-Grupa Sanguina:  B
-Varsta: 29
+Varsta: 30
 --------------------
 
 --------------------
 
 Date Pacient
-Munteanu Alexandru
-Grupa Sanguina:  B
-Varsta: 20
+Gheorghe Stefan
+Grupa Sanguina:  AB
+Varsta: 21
 --------------------
 
 ----------------------------------------
@@ -50,61 +28,39 @@ DATE TRANSFUZIE
 --------------------
 
 Date Donator:
-Popescu Stefan
-Grupa Sanguina:  B
+Rusu Alexandru
+Grupa Sanguina:  0
+Varsta: 25
+--------------------
+
+--------------------
+
+Date Pacient
+Dumitru Ana-Maria
+Grupa Sanguina:  A
+Varsta: 18
+--------------------
+
+----------------------------------------
+
+----------------------------------------
+
+DATE TRANSFUZIE
+
+--------------------
+
+Date Donator:
+Radu Elena
+Grupa Sanguina:  0
 Varsta: 19
 --------------------
 
 --------------------
 
 Date Pacient
-Stan Stefan
-Grupa Sanguina:  AB
-Varsta: 20
---------------------
-
-----------------------------------------
-
-----------------------------------------
-
-DATE TRANSFUZIE
-
---------------------
-
-Date Donator:
-Rusu Paul
-Grupa Sanguina:  0
-Varsta: 29
---------------------
-
---------------------
-
-Date Pacient
-Pop Daniel
-Grupa Sanguina:  0
-Varsta: 20
---------------------
-
-----------------------------------------
-
-----------------------------------------
-
-DATE TRANSFUZIE
-
---------------------
-
-Date Donator:
-Constantin Marian
-Grupa Sanguina:  0
-Varsta: 15
---------------------
-
---------------------
-
-Date Pacient
-Radu Mihaela
+Rusu Codruta
 Grupa Sanguina:  A
-Varsta: 20
+Varsta: 21
 --------------------
 
 ----------------------------------------
@@ -116,39 +72,17 @@ DATE TRANSFUZIE
 --------------------
 
 Date Donator:
-Popescu Claudiu
+Pop Mihaela
 Grupa Sanguina:  B
-Varsta: 19
---------------------
-
---------------------
-
-Date Pacient
-Rusu Elena
-Grupa Sanguina:  B
-Varsta: 20
---------------------
-
-----------------------------------------
-
-----------------------------------------
-
-DATE TRANSFUZIE
-
---------------------
-
-Date Donator:
-Constantin Andrei
-Grupa Sanguina:  A
-Varsta: 32
+Varsta: 26
 --------------------
 
 --------------------
 
 Date Pacient
 Popescu Elena
-Grupa Sanguina:  A
-Varsta: 20
+Grupa Sanguina:  B
+Varsta: 33
 --------------------
 
 ----------------------------------------

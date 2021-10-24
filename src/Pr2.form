@@ -62,7 +62,9 @@
           </grid>
         </constraints>
         <properties>
+          <alignmentY value="0.5"/>
           <background color="-925195"/>
+          <dragEnabled value="false"/>
           <model/>
         </properties>
       </component>
