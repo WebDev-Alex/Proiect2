@@ -8,16 +8,16 @@ public class Donator implements IPersoana{
 
     //Constructor principal.
     public Donator(){
-        nume = "Donator";
-        prenume = "Privat";
+        nume = IPersoana.nume_default[IPersoana.R.nextInt(IPersoana.nume_default.length - 1)];
+        prenume = IPersoana.prenume_default[IPersoana.R.nextInt(IPersoana.prenume_default.length - 1)];
         varsta = 20;
         grupa_sanguina = "A";
     }
 
     //Constructor Ad. Gr. Sanguina
     public Donator(String grupa_sanguinaD){
-        nume = "Donator";
-        prenume = "Privat";
+        nume = IPersoana.nume_default[IPersoana.R.nextInt(IPersoana.nume_default.length - 1)];
+        prenume = IPersoana.prenume_default[IPersoana.R.nextInt(IPersoana.prenume_default.length - 1)];
         varsta = 20;
         grupa_sanguina = grupa_sanguinaD;
     }

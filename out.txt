@@ -6,8 +6,8 @@ DATE TRANSFUZIE
 --------------------
 
 Date Donator:
-Donator Privat
-Grupa Sanguina:  B
+Pop Alexandra
+Grupa Sanguina:  0
 Varsta: 20
 --------------------
 
@@ -15,7 +15,7 @@ Varsta: 20
 
 Date Pacient
 Pacient Privat
-Grupa Sanguina:  AB
+Grupa Sanguina:  A
 Varsta: 20
 --------------------
 
@@ -28,7 +28,7 @@ DATE TRANSFUZIE
 --------------------
 
 Date Donator:
-Donator Privat
+Popa Gabriela
 Grupa Sanguina:  A
 Varsta: 20
 --------------------
@@ -36,29 +36,7 @@ Varsta: 20
 --------------------
 
 Date Pacient
-Pacient Privat
-Grupa Sanguina:  B
-Varsta: 20
---------------------
-
-----------------------------------------
-
-----------------------------------------
-
-DATE TRANSFUZIE
-
---------------------
-
-Date Donator:
-Donator Privat
-Grupa Sanguina:  B
-Varsta: 20
---------------------
-
---------------------
-
-Date Pacient
-Pacient Privat
+Stan Iulia
 Grupa Sanguina:  AB
 Varsta: 20
 --------------------
@@ -72,7 +50,7 @@ DATE TRANSFUZIE
 --------------------
 
 Date Donator:
-Donator Privat
+Rusu Alexandra
 Grupa Sanguina:  B
 Varsta: 20
 --------------------
@@ -80,29 +58,7 @@ Varsta: 20
 --------------------
 
 Date Pacient
-Pacient Privat
-Grupa Sanguina:  B
-Varsta: 20
---------------------
-
-----------------------------------------
-
-----------------------------------------
-
-DATE TRANSFUZIE
-
---------------------
-
-Date Donator:
-Donator Privat
-Grupa Sanguina:  AB
-Varsta: 20
---------------------
-
---------------------
-
-Date Pacient
-Pacient Privat
+Dumitru Marian
 Grupa Sanguina:  AB
 Varsta: 20
 --------------------
@@ -116,15 +72,15 @@ DATE TRANSFUZIE
 --------------------
 
 Date Donator:
-Donator Privat
-Grupa Sanguina:  B
+Dumitru Alexandru
+Grupa Sanguina:  0
 Varsta: 20
 --------------------
 
 --------------------
 
 Date Pacient
-Pacient Privat
+Serban Ioana
 Grupa Sanguina:  B
 Varsta: 20
 --------------------

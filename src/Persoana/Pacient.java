@@ -8,16 +8,17 @@ public class Pacient implements IPersoana{
 
     //Constructor principal.
     public Pacient(){
-        nume = "Pacient";
-        prenume = "Privat";
+        //Nume si prenume random, din IPersoana.
+        nume = IPersoana.nume_default[IPersoana.R.nextInt(IPersoana.nume_default.length - 1)];
+        prenume = IPersoana.prenume_default[IPersoana.R.nextInt(IPersoana.prenume_default.length - 1)];
         varsta = 20;
         grupa_sanguina = "A";
     }
 
     //Constructor cu parametru Grupa Sanguina.
     public Pacient(String grupa_sanguinaP){
-        nume = "Pacient";
-        prenume = "Privat";
+        nume = IPersoana.nume_default[IPersoana.R.nextInt(IPersoana.nume_default.length - 1)];
+        prenume = IPersoana.prenume_default[IPersoana.R.nextInt(IPersoana.prenume_default.length - 1)];
         varsta = 20;
         grupa_sanguina = grupa_sanguinaP;
     }

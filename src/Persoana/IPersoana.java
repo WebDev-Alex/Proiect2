@@ -6,6 +6,42 @@ import java.util.Random;
 public interface IPersoana {
     public static final String TIP_PACIENT = "Pacient";
     public static final String TIP_DONATOR = "Donator";
+    public static final String[] prenume_default = {
+            "Andrei",
+            "Gabriel",
+            "Ionut",
+            "Stefan",
+            "Alexandru",
+            "Maria",
+            "Alexandra",
+            "Elena",
+            "Ioana",
+            "Iulia",
+            "Gabriela",
+            "Ana-Maria",
+            "Marian",
+            "Paul",
+            "Constantin",
+            "Daniel",
+            "Dan"
+    };
+    public static final String[] nume_default = {
+            "Popa",
+            "Popescu",
+            "Pop",
+            "Radu",
+            "Ionescu",
+            "Dumitru",
+            "Stoica",
+            "Stan",
+            "Gheorghe",
+            "Rusu",
+            "Munteanu",
+            "Matei",
+            "Constantin",
+            "Serban",
+            "Urs"
+    };
     public static final Random R = new Random();
     public static final String[] grupe_sanguine = {"A", "B", "AB", "0"};
 
