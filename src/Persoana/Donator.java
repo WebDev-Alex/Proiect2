@@ -8,7 +8,7 @@ public class Donator implements IPersoana{
 
     //Constructor principal.
     public Donator(){
-        nume = "DonatorPPPP";
+        nume = "Donator";
         prenume = "Privat";
         varsta = 20;
         grupa_sanguina = "A";
