@@ -6,37 +6,15 @@ DATE TRANSFUZIE
 --------------------
 
 Date Donator:
-Pop Alexandra
-Grupa Sanguina:  0
+Rusu Gabriela
+Grupa Sanguina:  AB
 Varsta: 20
 --------------------
 
 --------------------
 
 Date Pacient
-Pacient Privat
-Grupa Sanguina:  A
-Varsta: 20
---------------------
-
-----------------------------------------
-
-----------------------------------------
-
-DATE TRANSFUZIE
-
---------------------
-
-Date Donator:
-Popa Gabriela
-Grupa Sanguina:  A
-Varsta: 20
---------------------
-
---------------------
-
-Date Pacient
-Stan Iulia
+Matei Gabriel
 Grupa Sanguina:  AB
 Varsta: 20
 --------------------
@@ -50,15 +28,15 @@ DATE TRANSFUZIE
 --------------------
 
 Date Donator:
-Rusu Alexandra
-Grupa Sanguina:  B
+Munteanu Ionut
+Grupa Sanguina:  AB
 Varsta: 20
 --------------------
 
 --------------------
 
 Date Pacient
-Dumitru Marian
+Stoica Elena
 Grupa Sanguina:  AB
 Varsta: 20
 --------------------
@@ -72,7 +50,7 @@ DATE TRANSFUZIE
 --------------------
 
 Date Donator:
-Dumitru Alexandru
+Constantin Alexandra
 Grupa Sanguina:  0
 Varsta: 20
 --------------------
@@ -80,8 +58,52 @@ Varsta: 20
 --------------------
 
 Date Pacient
-Serban Ioana
+Popescu Ana-Maria
+Grupa Sanguina:  AB
+Varsta: 20
+--------------------
+
+----------------------------------------
+
+----------------------------------------
+
+DATE TRANSFUZIE
+
+--------------------
+
+Date Donator:
+Pop Iulia
 Grupa Sanguina:  B
+Varsta: 20
+--------------------
+
+--------------------
+
+Date Pacient
+Gheorghe Alexandru
+Grupa Sanguina:  B
+Varsta: 20
+--------------------
+
+----------------------------------------
+
+----------------------------------------
+
+DATE TRANSFUZIE
+
+--------------------
+
+Date Donator:
+Radu Gabriel
+Grupa Sanguina:  A
+Varsta: 20
+--------------------
+
+--------------------
+
+Date Pacient
+Constantin Gabriel
+Grupa Sanguina:  A
 Varsta: 20
 --------------------
 
