@@ -45,6 +45,8 @@ public class Pr2 {
     private JTextField numeDonator;
     private JButton verifica;
     private JButton sterge;
+    private JButton pacient_random;
+    private JButton donator_random;
     private final ListaPacienti listaPrim = new ListaPacienti(primitori);
     private final ListaDonatori listaDon = new ListaDonatori(donatori);
     private final File fila = new File("out.txt");
@@ -251,6 +253,23 @@ public class Pr2 {
             public void actionPerformed(ActionEvent e) {
                 donatori.clearSelection();
                 primitori.clearSelection();
+            }
+        });
+        donator_random.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+
+                numeDonator.setText(IPersoana.nume_default[IPersoana.R.nextInt(IPersoana.nume_default.length - 1)]);
+                prenumeDonator.setText(IPersoana.prenume_default[IPersoana.R.nextInt(IPersoana.prenume_default.length - 1)]);
+                grupa_S_donator.setText(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]);
+            }
+        });
+        pacient_random.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                numePacient.setText(IPersoana.nume_default[IPersoana.R.nextInt(IPersoana.nume_default.length - 1)]);
+                prenumePacient.setText(IPersoana.prenume_default[IPersoana.R.nextInt(IPersoana.prenume_default.length - 1)]);
+                grupa_S_pacient.setText(IPersoana.grupe_sanguine[IPersoana.R.nextInt(4)]);
             }
         });
     }

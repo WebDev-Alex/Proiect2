@@ -4,8 +4,6 @@ import java.util.Random;
 
 //Interfata pentru pacienti si donatori
 public interface IPersoana {
-    public static final String TIP_PACIENT = "Pacient";
-    public static final String TIP_DONATOR = "Donator";
     public static final String[] prenume_default = {
             "Andrei",
             "Gabriel",
@@ -23,7 +21,7 @@ public interface IPersoana {
             "Paul",
             "Constantin",
             "Daniel",
-            "Dan",
+            "Dani",
             "Mihaela",
             "Pavel",
             "Raul",
@@ -33,7 +31,6 @@ public interface IPersoana {
     public static final String[] nume_default = {
             "Popa",
             "Popescu",
-            "Pop",
             "Radu",
             "Ionescu",
             "Dumitru",
@@ -45,9 +42,8 @@ public interface IPersoana {
             "Matei",
             "Constantin",
             "Serban",
-            "Urs",
-            "Hulpe",
-            "Rus"
+            "Ursu",
+            "Hulpe"
     };
     public static final Random R = new Random();
     public static final String[] grupe_sanguine = {"A", "B", "AB", "0"};
